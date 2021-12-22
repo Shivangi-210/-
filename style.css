@@ -1,0 +1,30 @@
+.divuno{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: rgb(193, 214, 252);
+}
+
+.div2{
+    padding-top: 30px;
+    background-image: url("greens.jpg");
+    background-position: fixed;
+    background-size: cover;
+    padding-bottom: 30px;
+}
+#ar, #a{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: fantasy;
+}
+.footer{
+    position :fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-family: comic;
+    text-shadow: 5px 5px 5px rgb(255, 255, 255);
+    line-height: 3;
+    font-size: 20px;
+    background-color: rgb(193, 214, 252);
+}
